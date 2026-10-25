@@ -1,0 +1,10 @@
+[
+  {
+    "SeedType": 903,
+    "Info": "<size=36>\n\n<color=#CB0000>LarpZilla Mod:</color>\n\n<color=black>•</color> Cherrizilla's damage cap starts at 1/3 of his maximum Toughness. For every 10 Devour stacks Cherrizilla gains (every 2%), Cherrizilla's damage cap is reduced to 1/(3 + n/10) of his maximum Toughness.\n<color=black>•</color> The result of n/10 is always interpreted as an integer.\n<color=black>•</color> The number of <color=#CB0000>Epic Modifiers</color> Cherrizilla has affects the number of Devour stacks he gains when he devours a zombie.\n\t<color=black>•</color> <color=#CB0000>1 Epic Modifier</color> Gains 5 Devour stacks instead of 1.\n\t<color=black>•</color><color=#CB0000> 2 Epic Modifiers</color> Gains 10 Devour stacks instead of 1.\n<color=black>•</color> Acquiring at least <color=#CB0000>1 Epic Modifier</color> will grant newly planted Cherrizillas 35 Devour stacks.</size>"
+  },
+  {
+    "SeedType": 921,
+    "Info": "<size=36>\n\n<color=#CB0000>LarpZilla Mod:</color>\n\n<color=black>•</color> Garlizilla's damage cap starts at 1/3 of his maximum Toughness. For every 10 Devour stacks Garlizilla gains (every 2%), Garlizilla's damage cap is reduced to 1/(3 + n/10) of his maximum Toughness.\n<color=black>•</color> The result of n/10 is always interpreted as an integer.\n<color=black>•</color> The number of <color=#CB0000>Epic Modifiers</color> Garlizilla has affects the number of Devour stacks he gains when he devours a zombie.\n\t<color=black>•</color> <color=#CB0000>1 Epic Modifier</color> Gains 5 Devour stacks instead of 1.\n\t<color=black>•</color><color=#CB0000> 2 Epic Modifiers</color> Gains 10 Devour stacks instead of 1.\n<color=black>•</color> Acquiring at least <color=#CB0000>1 Epic Modifier</color> will grant newly planted Garlizillas 35 Devour stacks.</size>"
+  }
+]
