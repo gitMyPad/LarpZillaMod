@@ -19,3 +19,7 @@ _Preface:_ This assumes that the user has the multi-language translation version
 2. Drag and drop into the Mods folder in your GameInstall folder.
      - Path: <GameInstall>\Mods
 3. Enjoy!
+
+**Targeted versions:**
+
+Currently, this mod targets PvZ Fusion 4.0.5. There are no plans to make the mod compatible with previous versions as of now.
